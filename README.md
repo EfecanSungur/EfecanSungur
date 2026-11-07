@@ -9,6 +9,8 @@ Salurian'da ortağım; işletmeler için web siteleri ve iş uygulamaları geli�
 
 📺 [YouTube](https://www.youtube.com/@efecansungur) · 📸 [Instagram](https://www.instagram.com/egt.efecansungur)
 
+> 🇬🇧 **In English:** I'm a web developer and educator based in Türkiye. I build websites and business applications with ASP.NET Core and teach web development, marketing and client communication. Partner at Salurian, a digital agency. Most client projects below are kept in private repositories.
+
 ---
 
 ## 🛠️ Teknolojiler
