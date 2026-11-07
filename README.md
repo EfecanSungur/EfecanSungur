@@ -20,6 +20,16 @@ Salurian'da ortağım; işletmeler için web siteleri ve iş uygulamaları geli�
 ## 📁 Projeler
 
 > Aşağıdaki projelerin kaynak kodları müşterilere ait olduğu için **gizli repolarda** tutulmaktadır. Yayında olanların canlı adresleri verilmiştir.
+> Projelerin bir kısmı **Claude Code** ile yapay zekâ destekli geliştirme yöntemiyle hayata geçirildi.
+
+### 🚀 Ürünler ve girişimler
+| Proje | Ne yapıyor | Durum |
+|---|---|---|
+| MotorumdaNeVar | Türkiye'de 1990–2026 arası satılan araçların motor ve arıza ansiklopedisi, motor koduna göre forum | Geliştiriliyor |
+| Pasgor | Sigorta acenteleri için çoklu teklif paneli: tek girişle birden fazla şirketten teklif alıp fiyata göre sıralama | Taslak sürüm |
+| Sezin | Hesaplama ve raporlama masaüstü uygulaması | Geliştiriliyor |
+| Usta Defteri | Araç bakım ve onarım kayıtları için tek sayfalık dijital defter | Tamamlandı |
+| Güzellik Merkezi Demosu | Çok sayfalı, statik güzellik merkezi tasarım demosu | Demo |
 
 ### 🌐 Kurumsal ve hizmet siteleri
 | Proje | Tür | Canlı |
@@ -63,7 +73,6 @@ Salurian'da ortağım; işletmeler için web siteleri ve iş uygulamaları geli�
 | Eczane Sistemi | Eczane yönetim uygulaması |
 | Personel Takip | Personel takip masaüstü uygulaması |
 | Terzi Bala | Terzi atölyesi iş takip masaüstü uygulaması |
-| Sezin | Hesaplama ve raporlama masaüstü uygulaması |
 
 ---
 
